@@ -33,7 +33,8 @@ This repository documents every day of the challenge — what I built, what I le
 | Day 2 | ELK Stack deep dive & Splunk comparison | ✅ Done |
 | Day 3 | Vultr setup, VPC, firewall, Elasticsearch installation | ✅ Done |
 | Day 4 | Kibana installation & configuration | ✅ Done |
-| Day 5 | Coming soon | 🔄 In progress |
+| Day 5 | Windows Server 2025 deployment | ✅ Done |
+| Day 6 | Coming soon | 🔄 In progress |
 
 ---
 
@@ -67,7 +68,7 @@ I'm Ishaque Otabil — an IT student at the University of Ghana and ALX Cybersec
 
 This challenge is my way of building real, hands-on experience before stepping into the field.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ishaqueotabil)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ishaque-otabil)
 
 ---
 
