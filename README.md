@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/736x/7a/5a/41/7a5a4169d7e0df7efb8b1263fa712763.jpg" alt="Story pin image"/><img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/3d70fccf-a395-4d47-8cc9-0fcb496ee6f1" />
+<img width="735" height="410" alt="image" src="https://github.com/user-attachments/assets/2fce8215-d286-413c-bfff-a4ed56c0a455" />
+
 
 # 30 Days SOC Home Lab Challenge — MyDFIR
 
