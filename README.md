@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/736x/7a/5a/41/7a5a4169d7e0df7efb8b1263fa712763.jpg" alt="Story pin image"/><img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/3d70fccf-a395-4d47-8cc9-0fcb496ee6f1" />
+
 # 30 Days SOC Home Lab Challenge — MyDFIR
 
 A public documentation of my 30-day SOC Analyst home lab journey, following the **MyDFIR 30 Day SOC Analyst Challenge**. Built from scratch on Vultr cloud infrastructure, simulating real attacks and detecting them using the ELK Stack.
