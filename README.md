@@ -34,7 +34,14 @@ This repository documents every day of the challenge — what I built, what I le
 | Day 3 | Vultr setup, VPC, firewall, Elasticsearch installation | ✅ Done |
 | Day 4 | Kibana installation & configuration | ✅ Done |
 | Day 5 | Windows Server 2025 deployment | ✅ Done |
-| Day 6 | Coming soon | 🔄 In progress |
+| Day 6 | Elastic Agent & Fleet Server concepts | ✅ Done |
+| Day 7 | Fleet Server setup & Windows agent enrollment | ✅ Done |
+| Day 8 | Introduction to Sysmon | ✅ Done |
+| Day 9 | Sysmon installation & configuration | ✅ Done |
+| Day 10 | Ingesting Sysmon & Defender logs into Elasticsearch | ✅ Done |
+| Day 11 | Brute force attacks — concepts & defence | ✅ Done |
+| Day 12 | Ubuntu Server deployment & auth log analysis | ✅ Done |
+| Day 13 | Coming soon | 🔄 In progress |
 
 ---
 
